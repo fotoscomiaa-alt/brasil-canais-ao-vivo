@@ -83,12 +83,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Band",Band (576p)
 https://media.cdntvms.com.br/band_sat/index.m3u8
-#EXTINF:-1 group-title="Canais | Band",Band Sports (720p)
-http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 group-title="Canais | Band",Band Sports (720p)
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-#EXTINF:-1 group-title="Canais | Band",Band Sports (720p)
-http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Canais | Band",BandNews (720p)
 http://168.197.104.22/BAND_NEWS/index.m3u8
 #EXTINF:-1 group-title="Canais | Band",BandNews (720p)
@@ -169,28 +163,34 @@ https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 #EXTINF:-1 group-title="Canais | Documentários",Travel Box Brazil (720p)
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes",ESPN (1080p)
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",Band Sports (720p)
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",Band Sports (720p)
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",Band Sports (720p)
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes",ESPN 3 (720p)
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",ESPN 3 (720p)
 http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes",ESPN 4 (1080p)
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes",N Sports (1080p)
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",N Sports (1080p)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 group-title="Canais | Esportes",SporTV 3 (720p)
+#EXTINF:-1 group-title="Canais | Esportes | Jogos do dia",SporTV 3 (720p)
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Kuriakos Cine (1080p)
+#EXTINF:-1 group-title="Canais | Filmes",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Sony Movies (720p)
+#EXTINF:-1 group-title="Canais | Filmes",Sony Movies (720p)
 http://168.197.104.22/SONY_MOVIES/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Sony Movies (720p)
+#EXTINF:-1 group-title="Canais | Filmes",Sony Movies (720p)
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Sony Movies (720p)
+#EXTINF:-1 group-title="Canais | Filmes",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Sony Movies (720p)
+#EXTINF:-1 group-title="Canais | Filmes",Sony Movies (720p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries",TV Series 1 As Panteras (480p)
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Globo Regionais",Rede Globo (1080p)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 group-title="Canais | Globo Regionais",Rede Globo (720p)
@@ -227,8 +227,6 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 http://168.197.104.22/MUSIC/index.m3u8
 #EXTINF:-1 group-title="Canais | Música",Music Box Brazil (720p)
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
-#EXTINF:-1 group-title="Canais | Música",TikTok Radio Brasil (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 group-title="Canais | Notícias",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 group-title="Canais | Notícias",J3NEWS TV
@@ -515,8 +513,6 @@ http://170.83.16.50/WOOHOO/index.m3u8
 http://186.219.52.187/woohoo/index.m3u8
 #EXTINF:-1 group-title="Canais | Regionais",WooHoo (720p)
 http://45.162.64.114/WOOHOO/index.m3u8
-#EXTINF:-1 group-title="Canais | Religiosos",Gospel Movie TV (360p)
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Religiosos",Novo Tempo (720p)
 http://168.197.104.22/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 group-title="Canais | Religiosos",Novo Tempo (720p)
@@ -575,6 +571,8 @@ http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 http://186.219.52.187/pai_eterno/index.m3u8
 #EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno (720p)
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 group-title="Canais | Rádios",TikTok Radio Brasil (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 group-title="Canais | SBT",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="Canais | SBT",SBT Nacional (576p)
@@ -583,6 +581,8 @@ https://media.cdntvms.com.br/sbt_sat/index.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 group-title="Canais | SBT",SBT News (720p)
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 group-title="Canais | Séries",TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Variedades",Chef TV (720p)
 http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 group-title="Canais | Variedades",Petlovers TV
