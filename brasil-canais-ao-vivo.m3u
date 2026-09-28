@@ -39,8 +39,6 @@ http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 http://186.219.52.187/tv_camara/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="Canais | Abertos",TV Camara (720p)
 http://45.162.64.114/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Canais | Abertos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Canais | Abertos",TV Cultura (720p)
 http://168.197.104.22/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Canais | Abertos",TV Cultura (720p)
@@ -257,8 +255,6 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 http://168.197.104.22/REDE_FAMILIA/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br@SD" group-title="Canais | RecordTV",Rede Familia (720p)
 http://186.219.52.187/rede_familia/index.m3u8
-#EXTINF:-1 tvg-id="TVACritica.br@SD" group-title="Canais | RecordTV",TV A Critica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD" group-title="Canais | Regionais",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br@SD" group-title="Canais | Regionais",Amazon Sat (1080p)
@@ -275,8 +271,6 @@ http://170.83.16.50/AXN/index.m3u8
 http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 group-title="Canais | Regionais",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD" group-title="Canais | Regionais",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BR8TV.br@SD" group-title="Canais | Regionais",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" group-title="Canais | Regionais",Canal 25 Jundiaí (404p) [Not 24/7]
@@ -349,8 +343,6 @@ https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="Lke.br@SD" group-title="Canais | Regionais",L!ke (1080p)
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
-#EXTINF:-1 tvg-id="LaboralTV.br@SD" group-title="Canais | Regionais",Laboral TV (360p)
-https://tv.laboralsst.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Loading.br@SD" group-title="Canais | Regionais",Loading (720p)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCBrasilTV.br@SD" group-title="Canais | Regionais",MBC Brasil TV
@@ -487,8 +479,6 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br@SD" group-title="Canais | Regionais",TV Viçosa (480p)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVZoom.br@SD" group-title="Canais | Regionais",TV Zoom (720p)
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCRio.br@SD" group-title="Canais | Regionais",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br@SD" group-title="Canais | Regionais",TVCOM DF (360p)
@@ -519,8 +509,6 @@ http://168.197.104.22/NOVO_TEMPO/index.m3u8
 http://186.219.52.187/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="Canais | Religiosos",Novo Tempo (720p)
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Canais | Religiosos",Rede Gospel (1080p)
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Canais | Religiosos",Rede Gospel (1080p)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Canais | Religiosos",Rede Gospel (720p)
